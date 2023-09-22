@@ -37,7 +37,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Learning how to actually use React itself and visualizing what components you are going to have on the React app.
 
 ## License
 
