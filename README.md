@@ -4,7 +4,7 @@ Submitted by: Mohamed Awad
 
 This web app: Displays some of the best food places in Flushing, Queens, NY
 
-Time spent: **X** hours spent in total
+Time spent: 9 hours spent in total
 
 ## Required Features
 
